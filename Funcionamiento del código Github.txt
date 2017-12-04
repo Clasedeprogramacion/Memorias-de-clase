@@ -1,0 +1,68 @@
+﻿Funcionamiento del código en Python para generación de repositorios en Github.
+
+
+Resumen
+
+A partir de la instalación de git, 
+conjunto a la generación de un código simple en python, es
+posible generar un repositorio en la plataforma de Github con
+ la utilización de la consola central
+de cada sistema operativo al correr un archivo .py, estemétodo de subida de archivos 
+dispone de 
+una interfaz gráfica facilitadora que permite a los usuariosindexar los valores fundamentales para 
+la subida 
+de repositorios a Github simplificando esta labor y necesitando solo de unas cuantas 
+condiciones necesarias para su 
+funcionamiento.
+
+1.Instalación de Git
+
+Lo primero que se debe tener dispuesto para el correcto funcionamiento de este código
+ es la instalación de
+git, para esto se facilita el siguiente link:
+
+- https://git-scm.com/downloads
+
+. Donde se pueden encontrar
+ los enlaces de descarga oficiales y gratuitos para los tres sistemas operativos centrales.
+A partir de aquı́ solo es
+ necesario seguir el listado de instrucciones dispuesto en la página y finalizar la correcta
+ instalación.
+
+
+2.Generación de la ventana gráfica
+
+Para este paso únicamente es necesario la condición fundamental de correr el código ya 
+dispuesto dentro de
+la carpeta de archivos a subir en el repositorio. Esto se puede realizar de dos formas diferentes:
+
+
+-Correr el archivo .py que encapsula las librerı́as y comandos necesarios para la subida de archivos a Github
+desde la 
+consola central del sistema operativo empleado.
+
+-Ejecutar el código base desde una terminal de Python como Jupyter o 
+Spider.
+
+3.Correcta utilización de campos y botones
+
+Lo primero que debe quedar aclarado al momento de utilizar la ventana 
+gŕafica es la indexación del E-mail
+y Nombre con los caracteres definidos al momento de registrar su cuenta en GIthub, de 
+esta manera se cumple
+la función de registro necesaria para la subida de repositorios.
+
+Luego debe llenarse el campo de 
+comentario con el nombre que desea tener el archivo dentro del repositorio y se
+procede a oprimir el botón de clonado, 
+que permite clonar todos los archivos ya existentes dentro del repositorio
+en una carpeta dentro del sistema operativo, a 
+partir de aquı́ deben disponerse todos los archivos en la carpeta
+generada con los archivos clonados y se procede a subir 
+todo de nuevo.
+
+Para esto debe oprimirse el botón de limpiado, seguido del botón de preparación para que finalmente se 
+oprima
+el botón de subida que determinará la creación del nuevo repositorio con la indexación del nombre de usuario
+y
+ contraseña determinado para Github.
